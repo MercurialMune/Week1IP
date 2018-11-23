@@ -1,0 +1,42 @@
+body{
+  background-image: url("back.jpg");
+}
+.header{
+  background-color: grey;
+  /* width:100%; */
+  height:5%;
+  padding: 10px;
+  top:0;
+  left: 0;
+  color: white;
+  text-align: center;
+  opacity: .9;
+}
+.wrapper1{
+  text-align: center;
+  height:92%;
+  background-color: grey;
+  opacity: .8;
+}
+.wrapper2{
+  height:80%;
+  background-color: grey;
+  opacity: .8;
+}
+.wrapper3{
+  height:80%;
+  background-color: grey;
+  opacity: .8;
+}
+.nav li{
+  display: inline-block;
+}
+.loll img{
+  width: inherit;
+  text-align: right;
+  width: 90%;
+}
+.wrapper1 h1{
+  text-align: center;
+  text-decoration-style: double;
+  color: white;
