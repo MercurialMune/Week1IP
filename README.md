@@ -22,7 +22,7 @@ Used GIT and GitHub. There are commits attached to the entire project to show th
 * Cyprian Munene, any other contributor after the completion of the work can be viewed at this GitHub repository
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License. Moringa School moreover retains certain rights to elements in the code of this program.
 
 ## Acknowledgments
 
