@@ -19,7 +19,7 @@ Used GIT and GitHub. There are commits attached to the entire project to show th
 
 ## Authors
 
-* Cyprian Munene, any other contributor after the completion of the work can be viewed at
+* Cyprian Munene, any other contributor after the completion of the work can be viewed at this GitHub repository
 ## License
 
 This project is licensed under the MIT License
