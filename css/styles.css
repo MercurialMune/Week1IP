@@ -17,7 +17,35 @@ body{
   height:92%;
   background-color: grey;
   opacity: .8;
+
 }
+.text-area{
+  background-color: white;
+  float:left;
+  width:30%;
+  margin:1%;
+  padding:1%;
+}
+.text-area1{
+  background-color: white;
+  float:right;
+  width:30%;
+  margin:1%;
+  padding:1%;
+}
+.pirates {
+background-color: white;
+width:25%;
+margin:1%;
+padding:1%;
+}
+
+.about{
+  background-color: white;
+}
+.wrapper1 ul{
+    text-align: left;
+  }
 .wrapper2{
   height:80%;
   background-color: grey;
