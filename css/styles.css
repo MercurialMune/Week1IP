@@ -36,22 +36,24 @@ body{
 .pirates {
 /* background-color: white; */
 /* background-image: url(../img/pirate.jpg); */
-height: 100%;
-width:50%;
-margin:1%;
-padding:1%;
-text-align: center;
-margin:1%;
-padding: 0.5%;
-
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 10%;
+padding-bottom: 2%;
+height: 10%
 }
-.pirates img{
-  overflow: hidden;
-  height: 100%;
-  float: center;
+/* .pirates img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; */
 }
-.align.center{
-  text-align: center;
+/* .align.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; */
 }
 .about{
   background-color: white;
