@@ -64,7 +64,7 @@ height: 10%
 .wrapper2{
   height:80%;
   background-color: #DDA0DD;
-  opacity: .8;
+  opacity: 1;
 }
 /* .wrapper3{
   height:80%;
@@ -83,3 +83,7 @@ height: 10%
   text-align: center;
   text-decoration-style: double;
   color: white;
+}
+h2{
+  color: green;
+}
