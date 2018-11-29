@@ -17,7 +17,7 @@ To deploy the program, stage it on Git and push it to GitHub. Then, create a gh-
 
 * Atom - The text editor used
 * Git - The version control environment Used
-*
+
 
 ## Contributing
 
