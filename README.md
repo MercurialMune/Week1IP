@@ -7,10 +7,10 @@ this program will display Cyprian Munene's landing page.
 To deploy the program, stage it on Git and push it to GitHub. Then, create a gh-pages branch from your master branch in the local machine. Thereafter, push the project to gh-pages on GitHub. After that, the program will be ready for Deployment on Git Hub Pages
 
 * After Deployment, the following image shows what the expected output would be.
-![The first instance screenshot of the program](img/1.png)
-![The second instance screenshot of the program](img/2.png)
-![The third instance screenshot of the program](img/3.png)
-![The fourth instance screenshot of the program](img/4.png)
+![The first instance screenshot of the program]("img/1.png")
+![The second instance screenshot of the program]("img/2.png")
+![The third instance screenshot of the program]("img/3.png")
+![The fourth instance screenshot of the program]("img/4.png")
 
 
 ## Built With
