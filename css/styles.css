@@ -26,7 +26,7 @@ body{
   margin:1%;
   padding:1%;
 }
-.text-area1{
+#text-area1{
   background-color: #E6E6FA;
   float:right;
   width:46%;
