@@ -19,7 +19,7 @@ body{
   opacity: .8;
 
 }
-.text-area{
+#text-area{
   background-color: #E6E6FA;
   float:left;
   width:46%;
