@@ -56,6 +56,7 @@ height: 10%
   width: 50%; */
 }
 #about{
+  color:blue;
   background-color: white;
 }
 .wrapper1 ul{
@@ -82,7 +83,7 @@ height: 10%
 .wrapper1 h1{
   text-align: center;
   text-decoration-style: double;
-  color: white;
+  color: black;
 }
 h2{
   color: green;
