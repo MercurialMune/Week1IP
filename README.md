@@ -6,6 +6,8 @@ this program will display Cyprian Munene's landing page.
 
 To deploy the program, stage it on Git and push it to GitHub. Then, create a gh-pages branch from your master branch in the local machine. Thereafter, push the project to gh-pages on GitHub. After that, the program will be ready for Deployment on Git Hub Pages
 
+The live page can be found in the following link: ![Week 1 Portfolio Project on Git Hub Pages](https://mercurialmune.github.io/Week1IP/)
+
 * After Deployment, the following image shows what the expected output would be.
 ![The first instance screenshot of the program](img/1.png)
 ![The second instance screenshot of the program](img/2.png)
